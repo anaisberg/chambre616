@@ -1562,9 +1562,10 @@ body.page-template-portfolio-2-php .footer_bar, body.page-template-portfolio-3-p
 
 #footer .sidebar_widget.four > li
 {
-	width: 20%;
+	width: 25%;
 	float: left;
-	margin-right: 5%;
+	margin-left: 2%;
+	margin-right: 2%;
 }
 
 #footer .sidebar_widget.four > li:nth-child(4)
@@ -4527,7 +4528,7 @@ ul.list
 	float: left;
 	display: block;
 	clear: both;
-	width: 120%;
+	width: 100%;
 }
 
 ul.flickr li
